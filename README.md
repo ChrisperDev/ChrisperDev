@@ -5,7 +5,7 @@
 ### Sobre mí
 
 Soy un entusiasta autodidacta en:
-- **Programación en Python**
+- ** ![Logo python] (https://www.flaticon.es/icono-gratis/piton_1387537?term=python&page=1&position=7&origin=search&related_id=1387537) Programación en Python**
 - **Diseño UX/UI**
 - **Bases de datos MySQL**
 - **Otras tecnologías emergentes**
