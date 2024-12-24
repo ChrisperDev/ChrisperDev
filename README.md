@@ -8,7 +8,7 @@ Soy un entusiasta autodidacta en:
 - **Programación en Python**
 - **Diseño UX/UI**
 - **Bases de datos MySQL**
-- **Otras tecnologías emergentes**
+- **ETL y Automatizaciones**
 
 Estoy constantemente buscando mejorar mis habilidades y aprender nuevas tecnologías para desarrollar soluciones innovadoras y eficientes.
 
