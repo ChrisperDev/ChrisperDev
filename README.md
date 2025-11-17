@@ -1,12 +1,6 @@
 # Christian Peralta
 
-¡Hola! Soy **Christian Peralta**, un apasionado estudiante independiente de la programación y el diseño, originario de la hermosa República Dominicana.
-
-### Contacto
-
-
-- **Email**: [Aristidesmarmolejos@gmail.com](mailto:Aristidesmarmolejos@gmail.com)
-- **LinkedIn**: [linkedin.com/in/christian-peralta-17945322b](https://linkedin.com/in/christian-peralta-17945322b)
+Soy un entusiasta de la tecnología que inició su camino programando microcontroladores PIC y ARM en C para proyectos de domótica. Desde hace dos años trabajo profesionalmente en análisis de datos, diseñando bases de datos y construyendo procesos ETL de punta a punta. Hoy vivo enamorado de Python y de todo su ecosistema, explorando cada herramienta con curiosidad quirúrgica.
 
 ---
 
