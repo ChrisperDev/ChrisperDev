@@ -1,6 +1,6 @@
 # Christian Peralta
 
-Soy un entusiasta de la tecnología que inició su camino programando microcontroladores PIC y ARM en C para proyectos de domótica. Desde hace dos años trabajo profesionalmente en análisis de datos, diseñando bases de datos y construyendo procesos ETL de punta a punta. Hoy vivo enamorado de Python y de todo su ecosistema, explorando cada herramienta con curiosidad quirúrgica.
+Soy un entusiasta de la tecnología que inició su camino programando microcontroladores PIC y ARM en C para proyectos de domótica. Desde hace dos años trabajo profesionalmente en análisis de datos, diseñando bases de datos y construyendo procesos ETL de punta a punta. Hoy vivo enamorado de Python y de todo su ecosistema.
 
 ---
 
