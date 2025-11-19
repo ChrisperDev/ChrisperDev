@@ -9,27 +9,16 @@
 Soy un entusiasta de la tecnología que inició su camino programando microcontroladores PIC y ARM en C para proyectos de domótica. Desde hace dos años trabajo profesionalmente en análisis de datos, diseñando bases de datos y construyendo procesos ETL de punta a punta. Hoy vivo enamorado de Python y de todo su ecosistema.
 
 ---
+### Intereses Actuales
 
-### Sobre mí
-
-Soy un entusiasta autodidacta en:
-- **Programación en Python**
-- **Bases de datos MySQL**
-- **ETL y Automatizaciones**
-
-Estoy constantemente buscando mejorar mis habilidades y aprender nuevas tecnologías para desarrollar soluciones innovadoras y eficientes.
+- Desarrollo backend
+- Machine Learning y Data Science
+- Experiencia de usuario y diseño de interfaces
+- Análisis y manejo de bases de datos
 
 ### Proyectos Destacados
 
 *Próximamente añadiré mis proyectos más destacados aquí.*
-
-### Intereses Actuales
-
-- Desarrollo de aplicaciones desktop
-- Desrrollo backend
-- Experiencia de usuario y diseño de interfaces
-- Análisis y manejo de bases de datos
-- Machine Learning y Data Science
 
 ---
 
