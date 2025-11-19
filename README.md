@@ -1,14 +1,12 @@
-Soy un entusiasta de la tecnología que inició su camino programando microcontroladores PIC y ARM en C para proyectos de domótica. Desde hace dos años trabajo profesionalmente en análisis de datos, diseñando bases de datos y construyendo procesos ETL de punta a punta. Hoy vivo enamorado de Python y de todo su ecosistema.
-
-
+![Static Badge](https://img.shields.io/badge/ETL-PDI_Spoon-red)
+![Static Badge](https://img.shields.io/badge/SQL-Postgre-blue)
+![Static Badge](https://img.shields.io/badge/SQL-Server-orange)
 ![Static Badge](https://img.shields.io/badge/Python-green?logo=python)
 ![Static Badge](https://img.shields.io/badge/Markdown-black?logo=markdown)
 ![Static Badge](https://img.shields.io/badge/Bash%20shell-black?style=flat&logo=gnubash&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SQL-Postgre-blue)
-![Static Badge](https://img.shields.io/badge/SQL-Server-orange)
 
 
-
+Soy un entusiasta de la tecnología que inició su camino programando microcontroladores PIC y ARM en C para proyectos de domótica. Desde hace dos años trabajo profesionalmente en análisis de datos, diseñando bases de datos y construyendo procesos ETL de punta a punta. Hoy vivo enamorado de Python y de todo su ecosistema.
 
 ---
 
